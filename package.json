@@ -1,5 +1,5 @@
 {
-  "name": "example-css",
+  "name": "@jekrb/example-css",
   "version": "1.0.0",
   "style": "example.css",
   "license": "ISC",
