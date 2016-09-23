@@ -1,0 +1,12 @@
+.example {
+  max-width: 30em;
+  font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+  line-height: 1.5;
+}
+
+.example h1 {
+  font-size: 3rem;
+  margin: .67em 0;
+  line-height: 1.25;
+}
+
