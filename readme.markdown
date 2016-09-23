@@ -3,7 +3,7 @@
 
 #### install
 ```
-npm insall @jekrb/example-css
+npm install @jekrb/example-css
 ```
 
 #### html
