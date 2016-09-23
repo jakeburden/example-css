@@ -1,12 +1,14 @@
 {
   "name": "example-css",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "style": "example.css",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekrb/example-css.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/jekrb/example-css/issues"
+  },
+  "homepage": "https://github.com/jekrb/example-css#readme"
 }
